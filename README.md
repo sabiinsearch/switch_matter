@@ -1,4 +1,4 @@
-# Switch_matter Example Application
+# Switch_matter
 
 An example application showing the use of [Matter][matter] on the Texas
 Instruments CC13XX_26XX family of Wireless MCUs.
