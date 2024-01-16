@@ -273,28 +273,6 @@ Identify
 
 ```
 
-## TI Support
+## Additionally, we welcome any feedback.
 
-For technical support, please consider creating a post on TI's [E2E forum][e2e].
-Additionally, we welcome any feedback.
 
-[matter]: https://csa-iot.org/all-solutions/matter/
-[ccs]: https://www.ti.com/tool/CCSTUDIO
-[ccs_after_launch]:
-    https://software-dl.ti.com/ccs/esd/documents/users_guide/ccs_debug-main.html?configuration#after-launch
-[ccs_debug_view]:
-    https://software-dl.ti.com/ccs/esd/documents/users_guide/ccs_debug-main.html?configuration#debug-view
-[ccs_manual_launch]:
-    https://software-dl.ti.com/ccs/esd/documents/users_guide/ccs_debug-main.html?configuration#manual-launch
-[ccs_manual_method]:
-    https://software-dl.ti.com/ccs/esd/documents/users_guide/ccs_debug-main.html?configuration#manual-method
-[e2e]: https://e2e.ti.com/support/wireless-connectivity/zigbee-thread-group/zigbee-and-thread/f/zigbee-thread-forum
-[matter-e2e-faq]:
-    https://e2e.ti.com/support/wireless-connectivity/zigbee-thread-group/zigbee-and-thread/f/zigbee-thread-forum/1082428/faq-cc2652r7-matter----getting-started-guide
-[sysconfig]: https://www.ti.com/tool/SYSCONFIG
-[sysconfig_recommended]:
-    https://dr-download.ti.com/software-development/ide-configuration-compiler-or-debugger/MD-nsUM6f7Vvb/1.15.0.2826/sysconfig-1.15.0_2826-setup.run
-[ti_thread_dnd]:
-    https://www.ti.com/wireless-connectivity/thread/design-development.html
-[ot_border_router_setup]: https://openthread.io/guides/border-router/build
-[uniflash]: https://www.ti.com/tool/download/UNIFLASH
