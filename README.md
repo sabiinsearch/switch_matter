@@ -1,6 +1,6 @@
 # Switch_matter
 
-An example application showing the use of [Matter][matter] by Hukam Technologies.
+An example application showing the use by **Hukam Technologies**.
 
 ---
 
